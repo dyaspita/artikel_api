@@ -1,0 +1,192 @@
+[
+  {
+    "id": 1,
+    "title": "Apakah Kucing Anda Sehat?",
+    "url": "https://my-api.vercel.app/api/artikel/1",
+    "author": "Iams",
+    "category": "Kucing",
+    "summary": "Kesehatan kucing perlu dipantau secara ketat dan setiap kelainan harus dilaporkan ke dokter hewan. Faktanya, orang tua hewan peliharaan harus merawat kucing mereka sejak masih kecil. Hal ini akan membantu Anda mencegah masalah kesehatan kucing yang lebih tua dalam jangka panjang. Jika Anda tidak mengetahui cara merawat kucing berusia antara satu hingga delapan tahun, bacalah terus. Kami telah membuat daftar semua hal yang perlu Anda ketahui tentang merawat kucing!",
+    "image": "https://example.com/images/kucing-sakit.jpg",
+    "published_at": "2025-11-29"
+  },
+  {
+    "id": 2,
+    "title": "8 Cara Merawat Kucing agar Tubuhnya Sehat",
+    "url": "https://my-api.vercel.app/api/artikel/2",
+    "author": "dr. Kevin Adrian",
+    "category": "Kucing",
+    "summary": "Cara merawat kucing perlu dilakukan dengan tepat sebab hewan menggemaskan ini bisa rentan terkena penyakit, apabila kesehatannya tidak dijaga. Berbeda jenisnya, bisa berbeda pula perawatan dan kebutuhan setiap kucing. Namun, beberapa cara berikut bisa dilakukan sebagai perawatan dasar untuk kucing kesayanganmu.",
+    "image": "https://example.com/images/anjing-vaksin.jpg",
+    "published_at": "2025-10-03"
+  },
+  {
+    "id": 3,
+    "title": "Cara Merawat Kucing agar Sehat, Bahagia, dan Panjang Umur",
+    "url": "https://my-api.vercel.app/api/artikel/3",
+    "author": "Rahma Indrawati",
+    "category": "Kucing",
+    "summary": "Punya kucing itu rasanya kayak punya sahabat kecil yang selalu ada buat nemenin kita di rumah. Mereka lucu, manja, kadang ngeselin, tapi selalu bikin hati adem. Nah, biar kucing tetap sehat dan bahagia, ada beberapa hal yang wajib kamu perhatiin. Karena merawat kucing itu nggak cuma soal kasih makan, tapi juga soal menjaga kesehatan, kenyamanan, dan kasih sayang. Di artikel ini, aku bakal bahas lengkap cara merawat kucing yang bisa kamu terapkan sehari-hari. Yuk, kita kupas satu-satu!",
+    "image": "https://example.com/images/kucing-makanan.jpg",
+    "published_at": "2025-09-03"
+  },
+  {
+    "id": 4,
+    "title": "12 Merek Makanan Kucing yang Bagus dan Tinggi Nutrisi",
+    "url": "https://my-api.vercel.app/api/artikel/4",
+    "author": "dr. Carla Pramudita Susanto",
+    "category": "Kucing",
+    "summary": "Bagi Anda penyuka dan pemilik kucing sebagai hewan peliharaan, memilih makanan kucing yang bagus menjadi suatu keharusan. Hal ini berguna untuk mendukung asupan nutrisi kucing peliharaan Anda. Sudahkah Anda memilih pakan kucing yang tepat? Beragam pilihan ini bisa membantu Anda dalam menentukan produk yang sesuai dengan kebutuhan.",
+    "image": "https://example.com/images/anjing-cacing.jpg",
+    "published_at": "2025-07-11"
+  },
+  {
+    "id": 5,
+    "title": "10 Penyakit yang Umum Menyerang Kucing dan Perlu Anda Ketahui",
+    "url": "https://my-api.vercel.app/api/artikel/5",
+    "author": "drh. Hevin Vinandra Louqen",
+    "category": "Kucing",
+    "summary": "Tidak berbeda dengan hewan peliharaan lainnya, kucing dapat terkena penyakit, baik karena infeksi jamur, bakteri, maupun virus. Simak daftar penyakit pada kucing beserta gejala dan pengobatannya berikut ini. ",
+    "image": "https://example.com/images/kucing-sehat.jpg",
+    "published_at": "2025-11-26"
+  },
+  {
+    "id": 6,
+    "title": "4 Langkah Mengurus Kucing Liar Setelah Diadopsi",
+    "url": "https://my-api.vercel.app/api/artikel/6",
+    "author": "Alva Daria",
+    "category": "Kucing",
+    "summary": "Banyak kucing liar datang dengan rasa takut, trauma, atau kebiasaan bertahan hidup yang membuat mereka sulit percaya dengan manusia. Oleh sebab itu, coba simaklah beberapa langkah berikut ini untuk mengurus kucing liar setelah diadopsi agar cepat dalam beradaptasi.",
+    "image": "https://example.com/images/anjing-latih.jpg",
+    "published_at": "2025-11-26"
+  },
+  {
+    "id": 7,
+    "title": "Kucing Muntah Rumput: Normal atau Bahaya?",
+    "url": "https://my-api.vercel.app/api/artikel/7",
+    "author": "Media Mahasiswa Indonesia",
+    "category": "Kucing",
+    "summary": "Kucing makan rumput dan muntah, ini bukan tanda bahwa kucing tersebut sakit. Banyak faktor yang mendasari hal ini, seperti insting, kebiasaan, dan reaksi tubuh. Namun, pemilik kucing juga harus hati-hati dan menjaga batas normal. Kucing yang muntah berlebihan dan diikuti gejala lain bisa saja menandakan masalah kesehatan yang lebih serius.",
+    "image": "https://example.com/images/kucing-gigi.jpg",
+    "published_at": "2025-11-28"
+  },
+  {
+    "id": 8,
+    "title": "Cara Menjaga Kesehatan Kucing agar Mpus Tumbuh Besar dan Sehat",
+    "url": "https://my-api.vercel.app/api/artikel/8",
+    "author": "Team Petfood",
+    "category": "Kucing",
+    "summary": "Menjaga kesehatan kucing di rumah sebenarnya tidak sesulit yang dibayangkan. Kembali lagi, sama seperti manusia, kucing membutuhkan makanan yang bernutrisi dan lingkungan yang bersih untuk bisa tumbuh besar dan sehat.",
+    "image": "https://example.com/images/anjing-vaksin2.jpg",
+    "published_at": "2023-04-29"
+  },
+  {
+    "id": 9,
+    "title": "6 Cara Merawat Kucing Yang Cocok Bagi Kaum Pemula!",
+    "url": "https://my-api.vercel.app/api/artikel/9",
+    "author": "Kaion Kai",
+    "category": "Kucing",
+    "summary": "Cara merawat kucing yang dijelaskan ini jangan sampai kamu lewatkan. Terutama jika kamu baru pertama kali memelihara kucing. Simak informasinya di artikel ini.",
+    "image": "https://example.com/images/kucing-makan.jpg",
+    "published_at": "2025-11-06"
+  },
+  {
+    "id": 10,
+    "title": "10 Cara Menjaga Kesehatan Kucing Menurut Dokter Hewan",
+    "url": "https://my-api.vercel.app/api/artikel/10",
+    "author": "Esra Dopita Maret",
+    "category": "Kucing",
+    "summary": "Menjaga kesehatan kucing peliharaan, baik fisik maupun mental, penting dilakukan demi kesejahteraan hewan serta membuatnya panjang umur.",
+    "image": "https://example.com/images/anjing-hujan.jpg",
+    "published_at": "2023-06-20"
+  },
+  {
+    "id": 11,
+    "title": "9 Cara Merawat Anjing agar Tetap Sehat dan Ceria",
+    "url": "https://my-api.vercel.app/api/artikel/11",
+    "author": "drh. Jepriadi Kertawinata",
+    "category": "Anjing",
+    "summary": "Anjing dikenal sebagai hewan yang setia. Hal itu bisa terjadi jika kamu memberikan makanan, tempat tinggal, perawatan yang bertanggung jawab, dan cinta. Sebagai balasannya, anjing akan patuh dan menyayangi kamu. Sama seperti manusia, anjing juga bisa sakit atau mengalami kondisi tidak mengenakan lainnya. Oleh karena itu, sebagai hewan peliharaan, anjing juga memerlukan perawatan yang tepat agar tetap sehat.",
+    "image": "https://example.com/images/kucing-alergi.jpg",
+    "published_at": "2022-11-27"
+  },
+  {
+    "id": 12,
+    "title": "Mengenal Ciri Ciri Kondisi Kesehatan pada Anjing, Panduan Lengkap untuk Pemilik Hewan Peliharaan",
+    "url": "https://my-api.vercel.app/api/artikel/12",
+    "author": "Shani Ramadhan Rasyid",
+    "category": "Anjing",
+    "summary": "Pelajari ciri-ciri anjing yang sehat dan bahagia, serta cara merawatnya dengan baik. Panduan lengkap bagi pemilik anjing pemula dan berpengalaman.",
+    "image": "https://example.com/images/anjing-telinga.jpg",
+    "published_at": "2025-02-23"
+  },
+  {
+    "id": 13,
+    "title": "10 Cara Merawat Anjing Peliharaan agar Sehat dan Bahagia",
+    "url": "https://my-api.vercel.app/api/artikel/13",
+    "author": "drh. Hevin Vinandra Louqen",
+    "category": "Anjing",
+    "summary": "Sebagai pemilik hewan peliharaan, pasti Anda selalu menginginkan yang terbaik untuk anak bulu Anda. Melihat anabul ceria, sehat, dan hidup dengan baik tentu menjadi kebahagiaan tersendiri. Nah, ada beberapa cara merawat anjing peliharaan yang perlu Anda ketahui agar ia tetap sehat.",
+    "image": "https://example.com/images/kucing-bulu.jpg",
+    "published_at": "2025-06-20"
+  },
+  {
+    "id": 14,
+    "title": "Cara beralih ke makanan yang baik untuk anjing Anda",
+    "url": "https://my-api.vercel.app/api/artikel/14",
+    "author": "Royal Canin",
+    "category": "Anjing",
+    "summary": "Memperkenalkan anjing dengan makanan baru harus dilakukan secara perlahan, untuk menghindari kemungkinan gangguan pencernaan. Ikuti panduan sederhana tujuh hari kami untuk memudahkan peralihan anjing ke makanan barunya secara aman dan hati-hati. ",
+    "image": "https://example.com/images/anjing-gelisah.jpg",
+    "published_at": "2025-11-16"
+  },
+  {
+    "id": 15,
+    "title": "Tips Kesehatan Anjing",
+    "url": "https://my-api.vercel.app/api/artikel/15",
+    "author": "Drh. Yuliati Putri Dewi",
+    "category": "Kucing",
+    "summary": "Bagi para pemilik hewan kesayangan anjing atau kucing yang peduli terhadap kesehatan hewannya maka alangkah baiknya jika memiliki pengetahuan dasar mengenai kesehatan hewan tersebut. Hal tersebut dapat didapat dengan melakukan pemeriksaan dasar/umum terhadap hewan kesayangan, yang akan semakin trampil dan cepat dalam prakteknya bila sering dilaksanakan. ",
+    "image": "https://example.com/images/kucing-berat.jpg",
+    "published_at": "2025-11-15"
+  },
+  {
+    "id": 16,
+    "title": "Menjaga Kebersihan Anjing Agar Layak Tidur di Kamar Tidur",
+    "url": "https://my-api.vercel.app/api/artikel/16",
+    "author": "Christovel Ramot",
+    "category": "Anjing",
+    "summary": "Menjaga kebersihan anjing sangat penting jika Kamu ingin mereka tidur di kamar. Simak cara praktis untuk merawat anjing agar tetap sehat dan kamar Kamu tetap bersih dari kotoran serta bau.",
+    "image": "https://example.com/images/anjing-latih2.jpg",
+    "published_at": "2025-11-14"
+  },
+  {
+    "id": 17,
+    "title": "10 Kebiasaan yang Dapat Membahayakan Kesehatan Anjing",
+    "url": "https://my-api.vercel.app/api/artikel/17",
+    "author": "Pet Care",
+    "category": "Anjing",
+    "summary": "Kadangkala niat baik sebagai pemilik hewan untuk memanjakan anjing justru dapat menimbulkan masalah. Namun, dengan menghindari perilaku-perilaku ini Anda dapat membantu menjaga kesehatan anjing dalam jangka waktu panjang. Berikut adalah 10 kebiasaan paling umum yang dapat membahayakan anjing, dilansir dari laman Newsy.",
+    "image": "https://example.com/images/kucing-gigi2.jpg",
+    "published_at": "2025-11-13"
+  },
+  {
+    "id": 18,
+    "title": "Cara Menjaga Kesehatan Anjing",
+    "url": "https://my-api.vercel.app/api/artikel/18",
+    "author": "Info Penyusun",
+    "category": "Anjing",
+    "summary": "Memang alami jika Anda ingin merawat anjing Anda agar ia bisa mendampingi Anda selama bertahun-tahun. Berita baiknya adalah ada banyak hal yang bisa dilakukan untuk merawat anjing. Pelajari bagaimana cara menjaga pola makan dengan makanan yang berkualitas, bersikap siaga dengan perawatan dokter hewan, dan lakukan yang terbaik untuk menyediakan lingkungan yang sehat dan penuh cinta.",
+    "image": "https://example.com/images/anjing-vaksin3.jpg",
+    "published_at": "2025-11-12T08:30:00Z"
+  },
+  {
+    "id": 19,
+    "title": "Dokter Ungkap Manfaat Kesehatan Memelihara Kucing",
+    "url": "https://my-api.vercel.app/api/artikel/19",
+    "author": "Dr. Rina Kurnia",
+    "category": "Kucing",
+    "summary": "Isi lengkap artikel tentang aktivitas fisik kucing agar tetap sehat...",
+    "image": "https://example.com/images/kucing-aktif.jpg",
+    "published_at": "2025-03-28"
+  }
+]
