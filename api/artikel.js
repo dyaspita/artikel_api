@@ -1,4 +1,5 @@
-[
+export default function handler(req, res) {
+  const artikel = [
   {
     "id": 1,
     "title": "Apakah Kucing Anda Sehat?",
@@ -199,4 +200,6 @@
     "image": "https://raw.githubusercontent.com/dyaspita/artikel_api/refs/heads/main/gambar/kucing2.jpeg",
     "published_at": "2025-06-16"
   }
-]
+];
+ res.status(200).json(guitars);
+}

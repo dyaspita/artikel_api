@@ -1,0 +1,7 @@
+{
+  "name": "api-artikel-kesehatan-hewan",
+  "version": "1.0.0",
+  "description": "api kesehatan hewan anjing dan kucing",
+  "type": "module",
+  "license": "MIT"
+}
