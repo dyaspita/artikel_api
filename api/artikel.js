@@ -201,5 +201,5 @@ export default function handler(req, res) {
     "published_at": "2025-06-16"
   }
 ];
- res.status(200).json(guitars);
+ res.status(200).json(artikel);
 }
